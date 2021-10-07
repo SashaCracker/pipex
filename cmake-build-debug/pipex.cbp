@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="pipex"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pipex">
+				<Option output="/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/pipex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/shuragaika/Desktop/School_21/pipex/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 pipex"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pipex/fast">
+				<Option output="/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/pipex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/shuragaika/Desktop/School_21/pipex/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 pipex/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/bonus/ft_free_bonus.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/bonus/ft_free_char_array_bonus.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/bonus/ft_mistake_bonus.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/bonus/ft_my_substr_bonus.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/bonus/ft_path_bonus.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/bonus/ft_pipex_bonus.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/bonus/ft_process1_bonus.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/bonus/ft_process2_bonus.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/bonus/ft_putstr_bonus.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/bonus/ft_split_bonus.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/bonus/ft_strdup_bonus.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/bonus/ft_strjoin_bonus.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/bonus/ft_strlcpy_bonus.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/bonus/ft_strlen_bonus.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/bonus/main_bonus.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/bonus/pipex_bonus.h">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/main_part/ft_free.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/main_part/ft_free_char_array.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/main_part/ft_mistake.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/main_part/ft_my_substr.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/main_part/ft_path.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/main_part/ft_pipex.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/main_part/ft_process1.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/main_part/ft_process2.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/main_part/ft_putstr.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/main_part/ft_split.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/main_part/ft_strdup.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/main_part/ft_strjoin.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/main_part/ft_strlcpy.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/main_part/ft_strlen.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/main_part/main.c">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/main_part/pipex.h">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/pipex.h">
+			<Option target="pipex"/>
+		</Unit>
+		<Unit filename="/Users/shuragaika/Desktop/School_21/pipex/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

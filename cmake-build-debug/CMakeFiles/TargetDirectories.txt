@@ -1,0 +1,3 @@
+/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shuragaika/Desktop/School_21/pipex/cmake-build-debug/CMakeFiles/pipex.dir

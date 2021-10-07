@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shuragaika/Desktop/School_21/pipex/pipex.c
+pipex.h
+/Users/shuragaika/Desktop/School_21/pipex/pipex.h
+
+/Users/shuragaika/Desktop/School_21/pipex/pipex.h
+unistd.h
+-
+stdio.h
+-
+string.h
+-
+sys/wait.h
+-
+fcntl.h
+-
+stdlib.h
+-
+
